@@ -1,3 +1,5 @@
+<img src="https://www.campamentos.info/images/calendario-escolar-castilla-la-mancha-2025-2026.webp" alt="Calendario Escolar">
+
 # 🌟 ¡Hola! Soy **Daniel Santiago**
 
 🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)**
