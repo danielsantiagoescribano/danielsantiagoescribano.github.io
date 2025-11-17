@@ -58,4 +58,4 @@ Si quieres colaborar, proponerme ideas o simplemente saludar, ¡estaré encantad
 
 ---
 
-🛠 *README creado con cariño, café y unas cuantas líneas de código por Daniel Santiago.*
+🛠 *README creado por Daniel Santiago.*
